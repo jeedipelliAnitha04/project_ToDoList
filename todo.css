@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:'poppins';
+    box-sizing:border-box;
+    background-color: blanchedalmond;
+}
+header{
+    padding: 0 20px;
+    text-align: center;
+
+}
+header h1{
+    text-align: center;
+}
+header input{
+    padding: 5px;
+    width:20%;
+    font-size: 16px;
+    text-align: center;
+}
+header button{
+    padding: 5px;
+    text-align: center;
+}
+.items{
+    margin:20px,0;
+    text-align: center;
+
+}
+.items li{
+    background-color: rgb(195, 48, 73);
+    color: azure;
+    font-size: 17px;
+    padding: 5px;
+    margin: 10px 0;
+}
+.btn{
+    background-color: aqua;
+    right:10px;
+    position: absolute;
+    border-radius: 30%;
+
+}
